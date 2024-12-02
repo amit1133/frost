@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Frost</string>
+    <string name="error_request_timeout">The request timed out.</string>
+    <string name="error_too_many_requests">Oops, it seems like your quota is exceeded.</string>
+    <string name="error_no_internet">Couldn\'t connect to server, please check your internet connection.</string>
+    <string name="error_unknown">Something went wrong. Please try again later.</string>
+    <string name="error_serialization">Couldn\'t serialize or deserialize data.</string>
+    <string name="weather_now">Weather now</string>
+    <string name="search">Search</string>
+    <string name="type_city_name">Type city name</string>
+    <string name="no_data_found">No Data Found!</string>
+    <string name="search_suggestion">Type City name and click on it</string>
+    <string name="permission_message">Please grant location permission to check current weather</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
